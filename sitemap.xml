@@ -62,6 +62,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://aoouiu.github.io/tags/linux/</loc>
+    <lastmod>2023-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
