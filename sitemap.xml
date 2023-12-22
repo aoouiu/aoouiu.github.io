@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aoouiu.github.io/2023/12/22/vim%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    
+    <lastmod>2023-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://aoouiu.github.io/about/index.html</loc>
     
     <lastmod>2023-12-17</lastmod>
@@ -40,17 +49,31 @@
 
   <url>
     <loc>http://aoouiu.github.io/</loc>
-    <lastmod>2023-12-20</lastmod>
+    <lastmod>2023-12-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://aoouiu.github.io/tags/vim/</loc>
+    <lastmod>2023-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
+    <loc>http://aoouiu.github.io/categories/VIM%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2023-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://aoouiu.github.io/categories/%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2023-12-20</lastmod>
+    <lastmod>2023-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
